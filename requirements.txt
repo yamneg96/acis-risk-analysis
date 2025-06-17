@@ -1,0 +1,23 @@
+# File: requirements.txt
+
+# Data Handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistical Testing
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Model Interpretability
+shap
+
+# Data Versioning
+# (Run DVC commands via CLI, not Python)
+dvc
